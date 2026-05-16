@@ -1,0 +1,65 @@
+\documentclass[11pt]{article}
+
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{libertinus}
+\usepackage{setspace}
+\usepackage{geometry}
+\geometry{margin=1in}
+\setstretch{1.25}
+
+\title{\textbf{Review of Ander Egurtzegi, \textit{Metathesis} \\ (forthcoming in the Wiley--Blackwell Companion to Diachronic Linguistics)}}
+\author{Steve Girard}
+\date{}
+
+\begin{document}
+\maketitle
+
+\section*{1. Scope and positioning of the chapter}
+
+Ander Egurtzegi’s forthcoming chapter offers one of the most comprehensive syntheses of metathesis to date. Rather than treating metathesis as a single phenomenon, he frames it as a heterogeneous family of processes unified only by their surface outcome. This perspective aligns with the foundational work of Blevins \& Garrett (1998, 2004), yet Egurtzegi’s treatment is broader, more empirically grounded, and more explicit in its theoretical commitments.
+
+From the outset, Egurtzegi states: \textit{``Metathesis is far from a monolithic sound change, but a cover term for many different types of synchronic and diachronic changes.''}
+
+\section*{2. What the chapter inherits from Blevins \& Garrett}
+
+Egurtzegi builds on several key insights from Blevins \& Garrett: the typological distinction between perceptual, compensatory, coarticulatory, and auditory metathesis; the recognition that some metatheses are phonetically motivated; and the idea that many apparent metatheses are telescoped sequences involving feature spreading and deletion. These foundations remain central, but Egurtzegi identifies limitations and extends the framework.
+
+\section*{3. Egurtzegi’s new contributions}
+
+\subsection*{3.1. Regularity and gradualness}
+
+A major contribution is the demonstration---based on acoustic and articulatory evidence---that certain metatheses behave like fully regular Neogrammarian sound changes. The Andalusian shift from pre-aspiration to post-aspiration is treated with unprecedented detail, showing synchronic stages, generational progression, extension across word boundaries, and stable perception.
+
+\subsection*{3.2. Reciprocal metathesis}
+
+Egurtzegi introduces a new category, \textit{reciprocal metathesis}, linked to motor-plan exchange mechanisms. This model accounts for full segmental swaps, certain non-local exchanges, and phenomena resembling speech-error dynamics---a domain where Blevins \& Garrett lacked a satisfactory model.
+
+\subsection*{3.3. Local vs.\ non-local metathesis}
+
+Egurtzegi clarifies that local metathesis can be highly regular, while non-local metathesis is rarely regular but may mimic regularity through strong perceptual biases. This resolves several ambiguities inherited from earlier typologies.
+
+\subsection*{3.4. Instrumental evidence}
+
+The chapter integrates spectrograms, waveform analyses, generational comparisons, perception studies, and fine-grained coarticulatory data, allowing metathesis to be observed in real time rather than inferred retrospectively.
+
+\section*{4. Theoretical contribution}
+
+Egurtzegi proposes a modular view: metathesis is not a type of change but a possible outcome of several distinct phonetic, perceptual, and cognitive mechanisms. This resolves long-standing contradictions such as regular vs.\ irregular, local vs.\ distant, and natural vs.\ psychological.
+
+\section*{5. Conclusion}
+
+This chapter is a major update to the theory of metathesis. It extends Blevins \& Garrett but also stabilizes the typology, demonstrates the possibility of regularity, broadens the explanatory range, and documents modern cases with unprecedented instrumental precision. For diachronic research---and especially for Pre-Basque analyses---this chapter becomes an essential reference.
+
+\newpage
+\section*{References}
+
+\begin{itemize}
+    \item Blevins, Juliette \& Andrew Garrett. 1998. ``The origins of consonant-vowel metathesis.'' \textit{Language} 74: 508--556.
+    \item Blevins, Juliette \& Andrew Garrett. 2004. ``The evolution of metathesis.'' In B. Hayes, R. Kirchner \& D. Steriade (eds.), \textit{Phonetically Based Phonology}, 117--156. Cambridge: CUP.
+    \item Egurtzegi, Ander. Forthcoming. ``Metathesis.'' In P. Honeybone \& J. Salmons (eds.), \textit{Wiley--Blackwell Companion to Diachronic Linguistics}.
+    \item Parrell, Benjamin. 2012. ``Dynamical account of Andalusian Spanish aspiration.'' \textit{Journal of Phonetics} 40: 718--731.
+    \item Ruch, Hanna \& Jonathan Harrington. 2014. ``Synchronic and diachronic factors in Andalusian Spanish aspiration.'' \textit{Journal of Phonetics} 45: 1--17.
+\end{itemize}
+
+\end{document}
