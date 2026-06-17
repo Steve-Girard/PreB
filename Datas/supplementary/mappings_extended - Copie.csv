@@ -1,0 +1,47 @@
+archaique_variant, normalisation_sugg�r�e,regle,exemple_source,exemple_normalise, dialecte_applicable
+Fichier  mappings_extended.cvs� pr�t � copier (UTF-8)�:,,,,,
+archa�que_variant,normalisation_sugg�r�e,regle,exemple_source,exemple_normalise,dialecte_applicable
+�,z,remplacer � par z pour /s/ initial/m�dial,fa�an,fazan,all
+ss,s,r�duire double s non phonologique,massa,masa,all
+ph,f,remplacer ph par f,pharo,faro,all
+th,t,remplacer th par t,the,te,all
+ch,tx,normaliser ch ? tx pour affricate palatale,chico,txiko,all
+ch,x,normaliser ch ? x pour r�alisation [?] (dialecte) ,chalo,xalo,ZUB;LAP
+y,j,normaliser y ? j pour semi-voyelle /j/,ya,ja,all
+y,i,normaliser y ? i si voyelle,ytz,itx,all
+v,b,remplacer v par b selon r�alisme phonologique,vila,bila,all
+w,boucle,b?w?b mapping historique (pr�traitement),wasa,basa,all
+ae,e,simplifier diphtongues latines archa�ques,hae,he,all
+�,e,simplifier ligature � ? e,�uvre,euvre,all
+oe,e,simplifier oe ? e,poeta,peeta,all
+�,i,supprimer diacritiques non distinctifs,p�na,pina,all
+�,i,supprimer diacritiques non distinctifs,p�na,pina,all
+�,i,supprimer diacritiques non distinctifs,p�na,pina,all
+�,o,supprimer diacritiques non distinctifs,m�do,modo,all
+�,o,supprimer diacritiques non distinctifs,m�do,modo,all
+�,u,supprimer diacritiques non distinctifs,p�nta,punta,all
+�u,eu,r�duction ligature complexe,�uvreu,evreu,all
+�,,retirer apostrophe non phonologique; documenter,l�egun,legun,all
+',,retirer apostrophe ASCII non phonologique,ha'ik,haik,all
+ ,,retirer espaces internes irr�guliers apr�s v�rification,ha ik,haik,all
+- ,-,normaliser tirets typographiques,ha-ik,ha-ik,all
+ss?,s,r�duire s + diacritique non phonologique,mass?a,masa,all
+x,sh,si x historique r�alis� [?] localement,xalo,shalo,BIZ;GIP
+x,kh,si x r�alis� v�laire [x] localement,xalo,khalo,ALV;NAV
+z,ts,si z r�alis� affriqu� [ts] en contexte dialectal,zuri,tsuri,GIP
+z,s,si z r�alis� [s] (d�voisement),zuri,suri,BIZ
+s,ts,si s affriqu�e dialectalement,san,tsan,ZUB
+j,?,si j r�alis� [?] en position intervocalique,jana,?ana,all
+g,?,si g intervocalique r�alis� fricatif,gara,?ara,all
+gu,g,normaliser gu ? g devant voyelle si palatalisation absente,guero,gero,all
+qu,k,remplacer qu ? k (latinismes),quinto,kinto,all
+kk,k,r�duire gemination non phonologique,akka,aka,all
+tt,t,r�duire gemination non phonologique,atta,ata,all
+nt,n,conserver n; corriger si assimilation erron�e,an'ta,anta,all
+mb,mb,conserver s�quence labio-nasale si attest�e,amba,amba,all
+phth,ft,r�duction cluster ancien,phthalo,ftalo,all
+aeu,eu,r�duction diphtongue complexe,haeu,heu,all
+ei,ei,conserver diphtongue si attest�e,pein,pein,all
+ie,ie,conserver diphtongue si attest�e,lieu,lieu,all
+tz,ts,normaliser tz ? ts si affrication dialectale,tzuri,tsuri,GIP
+tz,tx,normaliser tz ? tx si palatalisation locale,tzalo,txalo,ZUB
